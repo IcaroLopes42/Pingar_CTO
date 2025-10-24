@@ -6,4 +6,8 @@ Tendo em vista essa dor eu desenvolvi um programa em Python e utilizei a bibliot
 O programa importa um arquivo .xlsx informando o nome do cliente, ip e porta que está conectado na CTO
 
 Após isso ele pega a string do tempo de resposta e exibe na tela, caso não tenha um retorno de "tempo = xxms" ele considera o cliente offline e muda de verde para amarelo/vermelho
+
+
+
+
 <img width="614" height="200" alt="image" src="https://github.com/user-attachments/assets/bc504758-1528-46a3-9b59-f47af81cfc9e" />
